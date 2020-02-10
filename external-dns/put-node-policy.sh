@@ -8,7 +8,7 @@
 DEFAULT_REGION="eu-west-1"
 AWS_REGION="${AWS_REGION:-${DEFAULT_REGION}}"
 
-NODE_ROLE="nodes.kubernetes.newtech.academy"
+NODE_ROLE="nodes.kubernetes.azkube.space"
 
 export AWS_REGION
 
